@@ -11,12 +11,17 @@ contributor:
     deathdate: 1871
     gutenberg_agent_id: '49425'
     url: http://www.gutenberg.org/2009/agents/49425
+covers:
+- cover_type: archival
+  image_path: 74564-h/images/cover.jpg
 creator:
   editor:
     agent_name: Ehmcke, Fritz Helmuth
     gutenberg_agent_id: '57557'
     url: http://www.gutenberg.org/2009/agents/57557
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74564#Otto-Speckter
 gutenberg_issued: '2024-10-11'
 gutenberg_type: Text
 identifiers:
